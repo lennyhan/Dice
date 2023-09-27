@@ -43,7 +43,7 @@ class Die
   }
   void roll()
   {
-    myRoll = (int)(Math.random()*5)+1;
+    myRoll = (int)(Math.random()*6)+1;
     total += myRoll;
   }
   void show()
