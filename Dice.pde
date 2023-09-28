@@ -29,7 +29,7 @@ void draw() {
   fill(250);
   textSize(20);
   fill(0);
-  text("The total amount of all die incremented: "+total, 82, 575);
+  text("The total amount of all dice incremented: "+total, 82, 575);
 }
 
 void mousePressed() {
