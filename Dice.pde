@@ -15,7 +15,7 @@ void setup() {
 }
 
 void draw() {
-  background(235);
+  background(255, 238, 236);
   total = 0;
   currentRoll = 0;
   for (int x = 10; x < 520; x += 60) {
